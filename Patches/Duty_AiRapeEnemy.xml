@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationInsert">
+		<xpath>Defs/DutyDef[defName = "ShamblerSwarm"]/thinkNode/subNodes/li[@Class="JobGiver_ShamblerFight"]</xpath>
+		<value>
+			<li Class="rjw.JobGiver_RapeEnemy" />
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationInsert">
+		<xpath>Defs/DutyDef[defName = "ShamblerSwarm"]/thinkNode/subNodes/li[@Class="JobGiver_ShamblerWander"]</xpath>
+		<value>
+			<li Class="rjw.JobGiver_RapeEnemy">
+			</li>
+		</value>
+	</Operation>
+</Patch>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+    <JobDef Class="CrocamedelianAnomaly.JobDef_RapeEnemy">
+		<defName>RapeEnemy</defName>
+		<driverClass>rjw.JobDriver_RapeEnemy</driverClass>
+		<reportString>rapin' enemy</reportString>
+		<casualInterruptible>false</casualInterruptible>
+		<priority>100</priority>
+		<!-- High value is high priority. -->
+		<!-- Add defNames to do this type of rape-->
+		<TargetDefNames>
+		</TargetDefNames>
+	</JobDef>
+
+    <JobDef Class="CrocamedelianAnomaly.JobDef_RapeEnemy">
+		<defName>RapeEnemyByAnimal</defName>
+		<!-- Mainly do nothing. -->
+		<driverClass>rjw.JobDriver_RapeEnemyByAnimal</driverClass>
+		<reportString>rapin' enemy</reportString>
+		<casualInterruptible>false</casualInterruptible>
+		<priority>1000</priority>
+		<TargetDefNames>
+		</TargetDefNames>
+	</JobDef>
+    
+</Defs>
