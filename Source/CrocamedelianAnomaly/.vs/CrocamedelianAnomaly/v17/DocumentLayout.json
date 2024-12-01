@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{A14BA761-CA79-4464-8C2D-C6A5BD0BE49A}|CrocamedelianAnomaly\\CrocamedelianAnomaly.csproj|solutionrelative:crocamedeliananomaly\\hediff_shamblerinfection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A14BA761-CA79-4464-8C2D-C6A5BD0BE49A}|CrocamedelianAnomaly\\CrocamedelianAnomaly.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\crocamedeliananomaly\\source\\crocamedeliananomaly\\crocamedeliananomaly\\aftersex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A14BA761-CA79-4464-8C2D-C6A5BD0BE49A}|CrocamedelianAnomaly\\CrocamedelianAnomaly.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\CrocamedelianAnomaly\\Source\\CrocamedelianAnomaly\\crocamedeliananomaly\\aftersex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A14BA761-CA79-4464-8C2D-C6A5BD0BE49A}|CrocamedelianAnomaly\\CrocamedelianAnomaly.csproj|solutionrelative:crocamedeliananomaly\\aftersex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{A14BA761-CA79-4464-8C2D-C6A5BD0BE49A}|CrocamedelianAnomaly\\CrocamedelianAnomaly.csproj|solutionrelative:crocamedeliananomaly\\rapeadder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A14BA761-CA79-4464-8C2D-C6A5BD0BE49A}|CrocamedelianAnomaly\\CrocamedelianAnomaly.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\crocamedeliananomaly\\source\\crocamedeliananomaly\\crocamedeliananomaly\\harmony.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A14BA761-CA79-4464-8C2D-C6A5BD0BE49A}|CrocamedelianAnomaly\\CrocamedelianAnomaly.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\CrocamedelianAnomaly\\Source\\CrocamedelianAnomaly\\crocamedeliananomaly\\harmony.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A14BA761-CA79-4464-8C2D-C6A5BD0BE49A}|CrocamedelianAnomaly\\CrocamedelianAnomaly.csproj|solutionrelative:crocamedeliananomaly\\harmony.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "CrocamedelianAnomaly\\AfterSex.cs",
               "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\CrocamedelianAnomaly\\Source\\CrocamedelianAnomaly\\CrocamedelianAnomaly\\AfterSex.cs",
               "RelativeToolTip": "CrocamedelianAnomaly\\AfterSex.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAIwCwAAAAAAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAIwCIAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T05:26:25.775Z",
               "EditorCaption": ""
@@ -53,7 +53,7 @@
               "RelativeDocumentMoniker": "CrocamedelianAnomaly\\Hediff_ShamblerInfection.cs",
               "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\CrocamedelianAnomaly\\Source\\CrocamedelianAnomaly\\CrocamedelianAnomaly\\Hediff_ShamblerInfection.cs",
               "RelativeToolTip": "CrocamedelianAnomaly\\Hediff_ShamblerInfection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAATAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAQwDMAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T11:14:19.155Z",
               "EditorCaption": ""
@@ -68,8 +68,7 @@
               "RelativeToolTip": "CrocamedelianAnomaly\\RapeAdder.cs",
               "ViewState": "AQIAAMIAAAAAAAAAAAAmwEoAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T04:51:44.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T04:51:44.224Z"
             },
             {
               "$type": "Document",
@@ -81,8 +80,7 @@
               "RelativeToolTip": "CrocamedelianAnomaly\\Harmony.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T01:38:57.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T01:38:57.087Z"
             },
             {
               "$type": "Document",
@@ -94,8 +92,7 @@
               "RelativeToolTip": "CrocamedelianAnomaly\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T04:25:20.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T04:25:20.851Z"
             }
           ]
         }

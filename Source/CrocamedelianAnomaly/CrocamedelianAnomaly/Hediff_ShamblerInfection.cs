@@ -51,6 +51,12 @@ namespace CrocamedelianAnomaly
                 MutantUtility.ResurrectAsShambler(__instance, 60000, Faction.OfEntities);
             }
 
+            Hediff submittingHediff = __instance.health.hediffSet.GetFirstHediffOfDef(HediffDef.Named("Hediff_Submitting"));
+            if (submittingHediff != null)
+            {
+                __instance.health.RemoveHediff(submittingHediff);
+            }
+
         }
 
     }
